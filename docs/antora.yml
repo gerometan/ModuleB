@@ -5,6 +5,6 @@ start_page: index.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
-    table-caption: false
+    table-caption: true
 nav:
 - modules/ROOT/nav.adoc
