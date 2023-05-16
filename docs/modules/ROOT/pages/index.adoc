@@ -3,3 +3,5 @@
 == Instructions on Module B
 
 ==== Todo is add an image
+
+ModuleA::image:carbonara.jpg[Carbonara]
