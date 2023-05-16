@@ -4,4 +4,4 @@
 
 ==== Todo is add an image
 
-ModuleA::image:carbonara.jpg[Carbonara]
+ModuleA:image:carbonara.jpg[Carbonara]
