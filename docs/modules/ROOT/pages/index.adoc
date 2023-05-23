@@ -1,6 +1,6 @@
-= Module B
+= Module B Feature Version
 
-== Instructions on Module B
+== Instructions on Module B Feature Version
 
 ==== Todo is add an image
 
