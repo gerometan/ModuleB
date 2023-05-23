@@ -1,0 +1,3 @@
+= Partial File
+
+== This is a partial adoc
