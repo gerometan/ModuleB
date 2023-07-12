@@ -1,6 +1,6 @@
 name: ModuleB
 title: Module B
-version: 0.1.0
+version: 0.1.1
 start_page: index.adoc
 asciidoc:
   attributes:
