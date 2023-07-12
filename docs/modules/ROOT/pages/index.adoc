@@ -2,7 +2,7 @@
 
 == Instructions on Module B
 
-== Another Version
+== Another Version with 0.2.1
 
 ==== Todo is add an image
 
